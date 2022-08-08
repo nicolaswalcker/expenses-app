@@ -1,4 +1,4 @@
-# curso-vue3
+# expenses-app
 
 ## Project setup
 ```
